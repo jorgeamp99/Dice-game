@@ -1,0 +1,17 @@
+#1
+<tr><td></td> <td></td> <td></td></tr><tr><td></td> <td class='circle'></td> <td></td></tr><tr><td></td> <td></td><td></td></tr>
+
+#2
+ <tr><td class='circle'></td> <td></td> <td></td></tr><tr><td></td> <td></td> <td></td></tr><tr><td></td> <td></td><td class='circle'></td></tr>
+
+#3
+ <tr><td class='circle'></td> <td></td> <td></td></tr><tr><td></td> <td class='circle'></td> <td></td></tr><tr><td></td> <td></td><td class='circle'></td></tr>
+
+#4
+
+
+#5
+ <tr><td class='circle'></td> <td></td> <td class='circle'></td></tr><tr><td></td> <td class='circle'></td> <td></td></tr><tr><td class='circle'></td> <td></td><td class='circle'></td></tr>
+
+#6
+ <tr><td class='circle'></td> <td></td> <td class='circle'></td></tr><tr><td class='circle'></td> <td></td> <td class='circle'></td></tr><tr><td class='circle'></td> <td></td><td class='circle'></td></tr>
